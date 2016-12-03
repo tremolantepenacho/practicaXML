@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<usuarios>
+  <usuario>
+    <nombre>Carlos</nombre>
+    <horas>20</horas>
+    <puntuacíon>1000</puntuacíon>
+    <nivel>3</nivel>
+  </usuario>
+    <usuario>
+    <nombre>Moha</nombre>
+    <horas>10</horas>
+    <puntuacíon>800</puntuacíon>
+    <nivel>3</nivel>
+  </usuario>
+    <usuario>
+    <nombre>Rafa</nombre>
+    <horas>28</horas>
+    <puntuacíon>1500</puntuacíon>
+    <nivel>5</nivel>
+  </usuario>
+    <usuario>
+    <nombre>Mario</nombre>
+    <horas>200</horas>
+    <puntuacíon>10000</puntuacíon>
+    <nivel>30</nivel>
+  </usuario>
+    <usuario>
+    <nombre>Javi</nombre>
+    <horas>120</horas>
+    <puntuacíon>81000</puntuacíon>
+    <nivel>23</nivel>
+  </usuario>
+</usuarios>
