@@ -3,31 +3,31 @@
   <usuario>
     <nombre>Carlos</nombre>
     <horas>20</horas>
-    <puntuacíon>1000</puntuacíon>
+    <puntuacion>1000</puntuacion>
     <nivel>3</nivel>
   </usuario>
     <usuario>
     <nombre>Moha</nombre>
     <horas>10</horas>
-    <puntuacíon>800</puntuacíon>
+    <puntuacion>800</puntuacion>
     <nivel>3</nivel>
   </usuario>
     <usuario>
     <nombre>Rafa</nombre>
     <horas>28</horas>
-    <puntuacíon>1500</puntuacíon>
+    <puntuacion>1500</puntuacion>
     <nivel>5</nivel>
   </usuario>
     <usuario>
     <nombre>Mario</nombre>
     <horas>200</horas>
-    <puntuacíon>10000</puntuacíon>
+    <puntuacion>10000</puntuacion>
     <nivel>30</nivel>
   </usuario>
     <usuario>
     <nombre>Javi</nombre>
     <horas>120</horas>
-    <puntuacíon>81000</puntuacíon>
+    <puntuacion>81000</puntuacion>
     <nivel>23</nivel>
   </usuario>
 </usuarios>
